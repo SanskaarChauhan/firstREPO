@@ -1,6 +1,6 @@
 # 1stREPO
 <br>
-this is my first repositoru
+this is my first repository
 <hr>
 author: Sanskaar Chauhan
 <hr>
