@@ -1,4 +1,4 @@
-# 1stREPO
+# firstREPO
 <br>
 this is my first repository
 <hr>
